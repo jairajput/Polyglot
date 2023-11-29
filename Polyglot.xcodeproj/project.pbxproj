@@ -1,0 +1,116 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		D89F3EB52B17C401009E204A /* About Swift .md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "About Swift .md"; sourceTree = "<group>"; };
+		D89F3EB82B17C856009E204A /* Constants.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Constants.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		D89F3EAA2B17BE0A009E204A = {
+			isa = PBXGroup;
+			children = (
+				D89F3EB32B17BE8C009E204A /* C++ */,
+				D89F3EB22B17BE7E009E204A /* JavaScript */,
+				D89F3EB12B17BE76009E204A /* Swift */,
+			);
+			sourceTree = "<group>";
+		};
+		D89F3EB12B17BE76009E204A /* Swift */ = {
+			isa = PBXGroup;
+			children = (
+				D89F3EB42B17C3C1009E204A /* Chapter 1 - About Swift */,
+				D89F3EB62B17C5D1009E204A /*  Chapter 2 -Constant & Variables */,
+			);
+			path = Swift;
+			sourceTree = "<group>";
+		};
+		D89F3EB22B17BE7E009E204A /* JavaScript */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = JavaScript;
+			sourceTree = "<group>";
+		};
+		D89F3EB32B17BE8C009E204A /* C++ */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "C++";
+			sourceTree = "<group>";
+		};
+		D89F3EB42B17C3C1009E204A /* Chapter 1 - About Swift */ = {
+			isa = PBXGroup;
+			children = (
+				D89F3EB52B17C401009E204A /* About Swift .md */,
+			);
+			path = "Chapter 1 - About Swift";
+			sourceTree = "<group>";
+		};
+		D89F3EB62B17C5D1009E204A /*  Chapter 2 -Constant & Variables */ = {
+			isa = PBXGroup;
+			children = (
+				D89F3EB82B17C856009E204A /* Constants.playground */,
+			);
+			path = " Chapter 2 -Constant & Variables";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		D89F3EAB2B17BE0A009E204A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1500;
+			};
+			buildConfigurationList = D89F3EAE2B17BE0A009E204A /* Build configuration list for PBXProject "Polyglot" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D89F3EAA2B17BE0A009E204A;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		D89F3EAF2B17BE0A009E204A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		D89F3EB02B17BE0A009E204A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D89F3EAE2B17BE0A009E204A /* Build configuration list for PBXProject "Polyglot" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D89F3EAF2B17BE0A009E204A /* Debug */,
+				D89F3EB02B17BE0A009E204A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D89F3EAB2B17BE0A009E204A /* Project object */;
+}
