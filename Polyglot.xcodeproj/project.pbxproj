@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		D8595B492B1F55AA002CD1D2 /* Chapter 1 Introduction.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Chapter 1 Introduction.md"; sourceTree = "<group>"; };
 		D89F3EB52B17C401009E204A /* About Swift .md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "About Swift .md"; sourceTree = "<group>"; };
 		D89F3EB82B17C856009E204A /* Constants.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Constants.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D89F3EB92B17D20F009E204A /* Chapter 1 Introduction.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Chapter 1 Introduction.md"; sourceTree = "<group>"; };
@@ -34,6 +35,7 @@
 		D89F3EB22B17BE7E009E204A /* JavaScript */ = {
 			isa = PBXGroup;
 			children = (
+				D8595B492B1F55AA002CD1D2 /* Chapter 1 Introduction.md */,
 			);
 			path = JavaScript;
 			sourceTree = "<group>";
